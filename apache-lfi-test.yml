@@ -1,0 +1,11 @@
+Id: apache-lfi-test
+
+Cve: CVE-2021-41773
+
+Image: vulhub/apache:2.4.49
+
+Poc: ./exploits/apache_path_traversal.py
+
+Env:
+
+-	PORT=8080
