@@ -1,0 +1,19 @@
+#### **3. `requirements.txt`**
+
+```text
+
+# Main TUI Framework
+
+Textual==0.65.1
+
+
+
+# For interacting with the Docker daemon to manage containers
+
+Docker==7.1.0
+
+
+
+# For parsing the YAML profile configuration files
+
+PyYAML==6.0.1
