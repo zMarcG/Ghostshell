@@ -4,9 +4,6 @@
 
 Ghostshell is a TUI (Textual User Interface) application designed to orchestrate containerized vulnerability labs. It provides a clean, efficient interface for defining, running, and managing security test cases, helping researchers and students study vulnerabilities in a controlled and repeatable way.
 
-*Note: You would replace the URL below with a real screenshot of your application.*
-![Ghostshell TUI Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/assets/ghostshell_screenshot.png)
-
 ## About The Project
 
 In cybersecurity research, setting up a specific environment to test a vulnerability can be repetitive and time-consuming. Ghostshell automates this entire workflow. By defining your lab environments in simple YAML profile files, you can launch a complete test case with a single keystroke.
