@@ -1,0 +1,105 @@
+Screen {
+
+    Background: #0d1117;
+
+    Color: #c9d1d9;
+
+    Overflow: hidden;
+
+}
+
+
+
+#title {
+
+    Content-align: center top;
+
+    Width: 100%;
+
+    Color: #58a6ff;
+
+    Margin-bottom: 1;
+
+}
+
+
+
+#profiles_pane, #actions_pane {
+
+    Padding: 1;
+
+    Border: round #30363d;
+
+    Background: #161b22;
+
+    Margin: 0 1;
+
+}
+
+
+
+#profile_list {
+
+    Border: none;
+
+    Background: transparent;
+
+}
+
+
+
+ListItem:hover, ListItem.—highlight {
+
+    Background: #00a8ff;
+
+    Color: #0d1117;
+
+}
+
+
+
+Button {
+
+    Width: 100%;
+
+    Background: #21262d;
+
+    Border: tall #30363d;
+
+    Color: #c9d1d9;
+
+}
+
+
+
+Button:hover {
+
+    Background: #30363d;
+
+    Border: tall #58a6ff;
+
+    Color: #58a6ff;
+
+}
+
+
+
+Button:disabled {
+
+    Text-style: dim;
+
+    Background: #161b22;
+
+    Color: #484f58;
+
+}
+
+
+
+Header, Footer {
+
+    Background: #161b22;
+
+    Border-color: #30363d;
+
+}
